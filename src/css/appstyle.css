@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(119, 197, 222);
+}
+.codeblock{
+    background-color: rgb(211, 246, 226);
+    margin: 1.5vw;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.form{
+    margin: 2vw;
+    padding: 0.5vw;
+}
